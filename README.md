@@ -17,3 +17,4 @@ qmake && make
 ## Addons
 * [Qt](https://www.qt.io/) - Cross-Platform software for embedded & desktop
 * [Font](https://www.dafont.com/early-gameboy.font) - dafont website
+* [Gameplay](https://youtube.com/shorts/WZ-MxfD1UIQ) - youtube
