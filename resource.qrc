@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/x.png</file>
+        <file>res/o.png</file>
+        <file>res/bg.png</file>
+        <file>res/early_gameboy.ttf</file>
+    </qresource>
+</RCC>
